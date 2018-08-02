@@ -5,3 +5,13 @@ h1 {
 .great {
   color: green;
 }
+
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 30%;
+  float:left;
+  background-color: green;
+}
