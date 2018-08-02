@@ -2,6 +2,10 @@ h1 {
   font-family: cursive;
 }
 
+p {
+  font-style: italic;
+  font-size: 18px;
+}
 .great {
   color: green;
 }
@@ -21,4 +25,8 @@ img {
   border: 20px solid green;
   padding: 4px;
   background-color: black;
+}
+
+.world p {
+  font-style: normal;
 }
